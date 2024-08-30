@@ -1,4 +1,4 @@
-🌟 Desenvolvedor Front-End em crescimento
+##🌟 Desenvolvedor Front-End em crescimento
 🛠 Tecnologias:
 
 JavaScript
