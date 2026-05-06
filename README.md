@@ -1,82 +1,111 @@
-# 👋 Olá, eu sou o Victor
+<h1 align="center">👋 Olá, eu sou o Victor</h1>
 
-💻 Desenvolvedor em evolução para o ecossistema fullstack, com foco em **integrações com APIs, automações e construção de sistemas conectados**.
+<p align="center">
+  Desenvolvedor em evolução para o ecossistema fullstack, com foco em <strong>APIs, automações, integrações e sistemas conectados</strong>.
+</p>
 
-Tenho experiência prática unindo **desenvolvimento, marketing digital e automação**, criando soluções que conectam front-end, backend, banco de dados e fluxos automatizados.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Front-end+%2B+Automa%C3%A7%C3%B5es;APIs+%2B+Webhooks+%2B+n8n;React+%2B+Node.js+%2B+Supabase;Agentes+de+IA+para+WhatsApp" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Iniciei minha trajetória no marketing digital, trabalhando com landing pages, SEO, Google Ads, Meta Ads e Google Tag Manager.
+Minha trajetória começou no **marketing digital**, trabalhando com landing pages, SEO, Google Ads, Meta Ads e Google Tag Manager.
 
-Com o tempo, evoluí para o desenvolvimento, buscando ir além da interface e entender como os sistemas funcionam de ponta a ponta.
+Hoje estou evoluindo como desenvolvedor, buscando construir soluções que conectam:
 
-Hoje meu foco é construir aplicações que envolvem:
+- Interfaces modernas
+- Backend funcional
+- APIs e webhooks
+- Banco de dados
+- Automações com n8n
+- Agentes de IA aplicados a atendimento via WhatsApp
 
-- Integração entre sistemas  
-- Automação de processos  
-- Comunicação via APIs e webhooks  
-- Uso de IA para otimizar fluxos  
-
-Tenho interesse em desenvolver soluções cada vez mais completas, unindo código com aplicações reais de negócio.
+Meu foco é entender sistemas de ponta a ponta e criar soluções úteis para problemas reais de negócio.
 
 ---
 
 ## 🛠️ Tecnologias
 
 ### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react" />
+</p>
 
-### Backend & Banco de Dados
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### Backend, Banco e Integrações
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,git,github" />
+</p>
 
-### Integrações e Automação
-![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+### Automação e Ferramentas
 
----
-
-### Ferramentas
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs_REST-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" />
+</p>
 
 ---
 
 ## 🤖 Automações e IA
 
-- Criação de fluxos automatizados com n8n  
-- Integração entre sistemas via APIs REST  
-- Uso de webhooks para comunicação entre serviços  
-- Desenvolvimento de agentes de IA para atendimento via WhatsApp  
-- Estruturação de prompts para controle de comportamento  
-- Automação de processos como atendimento, pagamento e cadastro  
+Tenho experiência prática com:
+
+- Criação de fluxos automatizados com n8n
+- Integrações entre sistemas via APIs REST
+- Uso de webhooks para comunicação entre serviços
+- Configuração de chatbots para WhatsApp
+- Desenvolvimento de agentes de IA para atendimento
+- Estruturação de prompts para controle de comportamento
+- Automação de processos como atendimento, pagamento e cadastro
 
 ---
 
 ## 🎯 Foco atual
 
-- Backend com Node.js  
-- Arquitetura de APIs  
-- Sistemas automatizados  
-- Integração entre serviços  
-- Evolução no uso de agentes de IA  
+Atualmente estou aprofundando meus estudos em:
+
+- Node.js
+- APIs
+- Webhooks
+- Supabase
+- React com TypeScript
+- Arquitetura de sistemas automatizados
+- Agentes de IA aplicados a negócios
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victortp1305&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortp1305&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Atividade
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=victortp1305&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/victor-meloni-lopes-0608841a9/  
-- 💻 GitHub: https://github.com/victortp1305  
+<p>
+  <a href="https://www.linkedin.com/in/victor-meloni-lopes-0608841a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/victortp1305">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 - 📧 Email: victor.meloni13@gmail.com 
