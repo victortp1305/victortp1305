@@ -91,9 +91,7 @@ Atualmente estou aprofundando meus estudos em:
 
 ## 🔥 Atividade
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=victortp1305&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=victortp1305&locale=pt_BR" alt="GitHub Streak" /></a>
 
 ---
 
