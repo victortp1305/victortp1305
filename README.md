@@ -92,7 +92,7 @@ Atualmente estou aprofundando meus estudos em:
 ## 🔥 Atividade
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=victortp1305&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=victortp1305&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -108,4 +108,4 @@ Atualmente estou aprofundando meus estudos em:
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-- 📧 Email: victor.meloni13@gmail.com 
+
