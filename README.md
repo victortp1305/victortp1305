@@ -80,15 +80,6 @@ Atualmente estou aprofundando meus estudos em:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victortp1305&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortp1305&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 Atividade
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=victortp1305&locale=pt_BR" alt="GitHub Streak" /></a>
